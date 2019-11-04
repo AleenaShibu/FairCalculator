@@ -58,32 +58,48 @@ this.setState(
 
   
      return (
-       <div >
-         <h1 > <strong>Fare calculator</strong></h1>
-         <form>
-         <label>Starting Point:</label>
+
+       <div  className="card" >
+         
+         <h1 align="center">Fare calculator</h1>
+          <div className="section">
+          <form>
+         <label className= "label">Starting Point:</label>
+         <div className= "select">
+       
          <select value={this.state.startingpoint}
                   onChange={this.handleChange}
                   name="startingpoint"> 
                 {optionsItems}
              </select>
-             <label>Destination Point:</label>
+             </div>
+           
+             <label className = "label">Destination Point:</label>
+             <div className="select">
              <select value={this.state.destinationpoint}
                     onChange={this.handleChange}
                     name="destinationpoint">
                 {optionsItems}
              </select>
-
+             
+             </div>
+             
          </form>
-         <p>Fare is:{this.state.fare}Rupees </p>
-
-           
+         <div className="card">
+         <div className="card-content">
+        
+              <p > <strong> Fare is:{this.state.fare}  ₹
+                            </strong>
+              </p>
+              </div>
+              </div>
+              </div>
+              
        </div>      
             
      )
     }
   }
-
   
   
   export default App
