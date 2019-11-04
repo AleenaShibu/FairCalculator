@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/FairCalculator/static/css/main.d0bdf16b.chunk.css",
-    "main.js": "/FairCalculator/static/js/main.4232d2a2.chunk.js",
-    "main.js.map": "/FairCalculator/static/js/main.4232d2a2.chunk.js.map",
+    "main.css": "/FairCalculator/static/css/main.276e7be3.chunk.css",
+    "main.js": "/FairCalculator/static/js/main.8baa2dad.chunk.js",
+    "main.js.map": "/FairCalculator/static/js/main.8baa2dad.chunk.js.map",
     "runtime-main.js": "/FairCalculator/static/js/runtime-main.d5b54d1f.js",
     "runtime-main.js.map": "/FairCalculator/static/js/runtime-main.d5b54d1f.js.map",
     "static/css/2.46f0bf41.chunk.css": "/FairCalculator/static/css/2.46f0bf41.chunk.css",
     "static/js/2.0c4947b3.chunk.js": "/FairCalculator/static/js/2.0c4947b3.chunk.js",
     "static/js/2.0c4947b3.chunk.js.map": "/FairCalculator/static/js/2.0c4947b3.chunk.js.map",
     "index.html": "/FairCalculator/index.html",
-    "precache-manifest.aca3676946aff450092c4987d46167f4.js": "/FairCalculator/precache-manifest.aca3676946aff450092c4987d46167f4.js",
+    "precache-manifest.ea983ecec69688ff20546462749fcfc8.js": "/FairCalculator/precache-manifest.ea983ecec69688ff20546462749fcfc8.js",
     "service-worker.js": "/FairCalculator/service-worker.js",
     "static/css/2.46f0bf41.chunk.css.map": "/FairCalculator/static/css/2.46f0bf41.chunk.css.map",
-    "static/css/main.d0bdf16b.chunk.css.map": "/FairCalculator/static/css/main.d0bdf16b.chunk.css.map"
+    "static/css/main.276e7be3.chunk.css.map": "/FairCalculator/static/css/main.276e7be3.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.d5b54d1f.js",
     "static/css/2.46f0bf41.chunk.css",
     "static/js/2.0c4947b3.chunk.js",
-    "static/css/main.d0bdf16b.chunk.css",
-    "static/js/main.4232d2a2.chunk.js"
+    "static/css/main.276e7be3.chunk.css",
+    "static/js/main.8baa2dad.chunk.js"
   ]
 }

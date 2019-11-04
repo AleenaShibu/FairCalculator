@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1bf3d551b9e52b7bdca79d0b972172d",
+    "revision": "4e0f728e31b39ec9f9fd4a03568f9849",
     "url": "/FairCalculator/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FairCalculator/static/css/2.46f0bf41.chunk.css"
   },
   {
-    "revision": "638a38b3170e9d0d46c0",
-    "url": "/FairCalculator/static/css/main.d0bdf16b.chunk.css"
+    "revision": "3365198d90f139bc0f3e",
+    "url": "/FairCalculator/static/css/main.276e7be3.chunk.css"
   },
   {
     "revision": "f0082b2490e245e64dc8",
     "url": "/FairCalculator/static/js/2.0c4947b3.chunk.js"
   },
   {
-    "revision": "638a38b3170e9d0d46c0",
-    "url": "/FairCalculator/static/js/main.4232d2a2.chunk.js"
+    "revision": "3365198d90f139bc0f3e",
+    "url": "/FairCalculator/static/js/main.8baa2dad.chunk.js"
   },
   {
     "revision": "392f9a1c8538a38ac37b",
