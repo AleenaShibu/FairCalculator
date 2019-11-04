@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FareCalculator/static/css/main.32717c3f.chunk.css",
+    "main.css": "/FareCalculator/static/css/main.69d475ad.chunk.css",
     "main.js": "/FareCalculator/static/js/main.742f8cfe.chunk.js",
     "main.js.map": "/FareCalculator/static/js/main.742f8cfe.chunk.js.map",
     "runtime-main.js": "/FareCalculator/static/js/runtime-main.12e118ed.js",
@@ -9,16 +9,16 @@
     "static/js/2.0c4947b3.chunk.js": "/FareCalculator/static/js/2.0c4947b3.chunk.js",
     "static/js/2.0c4947b3.chunk.js.map": "/FareCalculator/static/js/2.0c4947b3.chunk.js.map",
     "index.html": "/FareCalculator/index.html",
-    "precache-manifest.71b4efbe3d8d66665b3771a0203679e2.js": "/FareCalculator/precache-manifest.71b4efbe3d8d66665b3771a0203679e2.js",
+    "precache-manifest.01dab2a30d8fbcbee6aca4090c40c86c.js": "/FareCalculator/precache-manifest.01dab2a30d8fbcbee6aca4090c40c86c.js",
     "service-worker.js": "/FareCalculator/service-worker.js",
     "static/css/2.46f0bf41.chunk.css.map": "/FareCalculator/static/css/2.46f0bf41.chunk.css.map",
-    "static/css/main.32717c3f.chunk.css.map": "/FareCalculator/static/css/main.32717c3f.chunk.css.map"
+    "static/css/main.69d475ad.chunk.css.map": "/FareCalculator/static/css/main.69d475ad.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.12e118ed.js",
     "static/css/2.46f0bf41.chunk.css",
     "static/js/2.0c4947b3.chunk.js",
-    "static/css/main.32717c3f.chunk.css",
+    "static/css/main.69d475ad.chunk.css",
     "static/js/main.742f8cfe.chunk.js"
   ]
 }
