@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70a26999e4f1038983b93ed1a500322d",
+    "revision": "3a10b912d3e20b104490166f56a8cd0e",
     "url": "/FareCalculator/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FareCalculator/static/css/2.46f0bf41.chunk.css"
   },
   {
-    "revision": "338b50e0be26576cafdc",
-    "url": "/FareCalculator/static/css/main.276e7be3.chunk.css"
+    "revision": "eb5d3fa6563c42c42725",
+    "url": "/FareCalculator/static/css/main.32717c3f.chunk.css"
   },
   {
     "revision": "f0082b2490e245e64dc8",
     "url": "/FareCalculator/static/js/2.0c4947b3.chunk.js"
   },
   {
-    "revision": "338b50e0be26576cafdc",
+    "revision": "eb5d3fa6563c42c42725",
     "url": "/FareCalculator/static/js/main.742f8cfe.chunk.js"
   },
   {
