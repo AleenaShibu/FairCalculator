@@ -1,48 +1,83 @@
 import React from 'react';
 
 import './App.css';
+import fareDetails from './fareData'
 import stationDetails from './stationDetails'
+import 'react-bulma-components/dist/react-bulma-components.min.css';
+
 
 class App extends React.Component {
   constructor() {
     super()
     this.state = {
       stations:[],
+      fares:[],
+      startingpoint:"ALVA",
+      destinationpoint:"ALVA",
+      fare: ""
     }
     this.componentDidMount = this.componentDidMount.bind(this)
+    this.handleChange = this.handleChange.bind(this)
   }
     componentDidMount() {
-      const stationName = stationDetails.map(( stations) => 
+      const stationNames = stationDetails.map( stations => 
         {return stations} )
-    console.log(stationName)
     this.setState(
-      { stations: stationName }
+      { stations: stationNames }
        
     )
+    const fareList = fareDetails.map( fares => 
+    {return fares} )
+
+this.setState(
+  { fares:fareList }
+   
+)
     
   }
+  handleChange(event) {
+    const { name,value } =event.target
+    this.setState({ [name]: value })
+    const fareAmount = fareDetails.map( fare_is => { 
+      
+      if (this.state.startingpoint === fare_is.originId && this.state.destinationpoint === fare_is.destId){
+        
+        let fareCalculated = fare_is.fare
+        this.setState({fare:fareCalculated})
+        
+      }
+    })
+
+  }
+    
   
   render() {
-    let stations = this.state.stations
-    let optionsItems = stations.map((station) => <option key={station.stop_name}>{station.stop_name}</option>)
+    let stationNames = this.state.stations
+    let optionsItems = stationNames.map((List) => <option key={List.stop_name} value={List.stop_id}> {List.stop_name} {List.stop_id}</option>)
   
 
   
      return (
-       <div>
-         <h1> Fare calculator</h1>
+       <div >
+         <h1 > <strong>Fare calculator</strong></h1>
          <form>
          <label>Starting Point:</label>
-         <select>
+         <select value={this.state.startingpoint}
+                  onChange={this.handleChange}
+                  name="StartingPoint"> 
                 {optionsItems}
              </select>
-             <br/>
              <label>Destination Point:</label>
-             <select>
+             <select value={this.state.destinationpoint}
+                    onChange={this.handleChange}
+                    name="destinationpoint">
                 {optionsItems}
              </select>
 
          </form>
+         <p>Fare is:{this.state.fare}Rupees </p>
+
+           
        </div>      
             
      )

@@ -1,4 +1,4 @@
-export default [
+const fareData =[
     { originId: "ALVA", destId: "PNCU", fare: 10 },
     { originId: "ATTK", destId: "CPPY", fare: 10 },
     { originId: "ATTK", destId: "MUTT", fare: 10 },
@@ -240,3 +240,4 @@ export default [
     { originId: "MGRD", destId: "PNCU", fare: 50 },
     { originId: "PNCU", destId: "MACE", fare: 50 },
   ];
+  export default fareData
