@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/FairCalculator/static/css/main.276e7be3.chunk.css",
-    "main.js": "/FairCalculator/static/js/main.8baa2dad.chunk.js",
-    "main.js.map": "/FairCalculator/static/js/main.8baa2dad.chunk.js.map",
-    "runtime-main.js": "/FairCalculator/static/js/runtime-main.d5b54d1f.js",
-    "runtime-main.js.map": "/FairCalculator/static/js/runtime-main.d5b54d1f.js.map",
-    "static/css/2.46f0bf41.chunk.css": "/FairCalculator/static/css/2.46f0bf41.chunk.css",
-    "static/js/2.0c4947b3.chunk.js": "/FairCalculator/static/js/2.0c4947b3.chunk.js",
-    "static/js/2.0c4947b3.chunk.js.map": "/FairCalculator/static/js/2.0c4947b3.chunk.js.map",
-    "index.html": "/FairCalculator/index.html",
-    "precache-manifest.ea983ecec69688ff20546462749fcfc8.js": "/FairCalculator/precache-manifest.ea983ecec69688ff20546462749fcfc8.js",
-    "service-worker.js": "/FairCalculator/service-worker.js",
-    "static/css/2.46f0bf41.chunk.css.map": "/FairCalculator/static/css/2.46f0bf41.chunk.css.map",
-    "static/css/main.276e7be3.chunk.css.map": "/FairCalculator/static/css/main.276e7be3.chunk.css.map"
+    "main.css": "/FareCalculator/static/css/main.276e7be3.chunk.css",
+    "main.js": "/FareCalculator/static/js/main.742f8cfe.chunk.js",
+    "main.js.map": "/FareCalculator/static/js/main.742f8cfe.chunk.js.map",
+    "runtime-main.js": "/FareCalculator/static/js/runtime-main.12e118ed.js",
+    "runtime-main.js.map": "/FareCalculator/static/js/runtime-main.12e118ed.js.map",
+    "static/css/2.46f0bf41.chunk.css": "/FareCalculator/static/css/2.46f0bf41.chunk.css",
+    "static/js/2.0c4947b3.chunk.js": "/FareCalculator/static/js/2.0c4947b3.chunk.js",
+    "static/js/2.0c4947b3.chunk.js.map": "/FareCalculator/static/js/2.0c4947b3.chunk.js.map",
+    "index.html": "/FareCalculator/index.html",
+    "precache-manifest.9a0ed1259d477e5e230faa077c1724c2.js": "/FareCalculator/precache-manifest.9a0ed1259d477e5e230faa077c1724c2.js",
+    "service-worker.js": "/FareCalculator/service-worker.js",
+    "static/css/2.46f0bf41.chunk.css.map": "/FareCalculator/static/css/2.46f0bf41.chunk.css.map",
+    "static/css/main.276e7be3.chunk.css.map": "/FareCalculator/static/css/main.276e7be3.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5b54d1f.js",
+    "static/js/runtime-main.12e118ed.js",
     "static/css/2.46f0bf41.chunk.css",
     "static/js/2.0c4947b3.chunk.js",
     "static/css/main.276e7be3.chunk.css",
-    "static/js/main.8baa2dad.chunk.js"
+    "static/js/main.742f8cfe.chunk.js"
   ]
 }
