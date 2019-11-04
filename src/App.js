@@ -64,7 +64,7 @@ this.setState(
          <label>Starting Point:</label>
          <select value={this.state.startingpoint}
                   onChange={this.handleChange}
-                  name="StartingPoint"> 
+                  name="startingpoint"> 
                 {optionsItems}
              </select>
              <label>Destination Point:</label>
