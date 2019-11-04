@@ -1,6 +1,6 @@
 
 
-                                                  ## Fare Calculator
+   ### Fare Calculator
  
  
  ReactJs project to calculate fare. Built with CSS framework  Bulma for styling.
